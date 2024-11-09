@@ -1,5 +1,9 @@
 # Zero to Mastery Deep Learning with TensorFlow
 
+Goal: Training for TensorFlow Developer Certification
+
+
+
 All of the course materials for the [Zero to Mastery Deep Learning with TensorFlow course](https://dbourke.link/ZTMTFcourse).
 
 This course will teach you the foundations of deep learning and how to build and train neural networks for various problem types with TensorFlow/Keras.
