@@ -1,0 +1,5 @@
+
+This repo follows the setup of the 1st 2 responses:
+    https://stackoverflow.com/questions/18200248/cloning-a-repo-from-someone-elses-github-and-pushing-it-to-a-repo-on-my-github
+
+
